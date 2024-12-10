@@ -722,6 +722,9 @@ nav a:hover::before {
 	background-color: #fff;
 }
 
+
+
+
 .footer .content {
 	left: 30%;
 	width: 70%;
@@ -734,16 +737,21 @@ nav a:hover::before {
 
 .footer .content p {
 	text-align: center;
-	font-size: 13px;
+	font-size: 10px;
 	color: #fff;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 
 .footer .content p a {
 	color: #aaa;
 	text-decoration: none;
 }
-
+@media (max-width: 768px) {
+	footer .content p a {
+	  font-size: 12px; /* تصغير النص على الشاشات الصغيرة */
+	}
+  }
+  
 
 
 /* REPONSIVE */
