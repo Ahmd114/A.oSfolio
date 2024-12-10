@@ -737,7 +737,7 @@ nav a:hover::before {
 
 .footer .content p {
 	text-align: center;
-	font-size: 10px;
+	font-size: 8px;
 	color: #fff;
 	margin-bottom: 8px;
 }
@@ -748,7 +748,7 @@ nav a:hover::before {
 }
 @media (max-width: 768px) {
 	footer .content p a {
-	  font-size: 12px; /* تصغير النص على الشاشات الصغيرة */
+	  font-size: 8px; /* تصغير النص على الشاشات الصغيرة */
 	}
   }
   
