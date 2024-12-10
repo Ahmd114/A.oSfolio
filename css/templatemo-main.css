@@ -739,7 +739,7 @@ nav a:hover::before {
 	text-align: center;
 	font-size: 8px;
 	color: #fff;
-	margin-bottom: 8px;
+	margin-bottom: 5px;
 }
 
 .footer .content p a {
